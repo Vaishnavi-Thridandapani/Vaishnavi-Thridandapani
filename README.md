@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- TYPING ANIMATION HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi+Thridandapani;Full-Stack+%26+Mobile+Developer;DevOps+Enthusiast;Building+apps+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi+Thridandapani;Flutter+%7C+Firebase+%7C+Full-Stack+Developer;IBM+Gen+AI+Intern+%E2%86%92+Building+Real+Products;CS+Graduate+%7C+CGPA+8.33+%7C+Hyderabad)](https://git.io/typing-svg)
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-Thridandapani&color=6C63FF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi_Thridandapani-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
+[![Email](https://img.shields.io/badge/Gmail-thridandapani.vaishnavi26@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi--Thridandapani-181717?style=flat-square&logo=github)](https://github.com/Vaishnavi-Thridandapani)
 
 </div>
 
@@ -14,13 +13,23 @@
 
 ## 👩‍💻 About Me
 
-I'm a software developer passionate about building real products — from **full-stack web apps** to **mobile applications** and **DevOps pipelines**. I enjoy solving problems that sit at the intersection of usability and impact.
+CS graduate (CGPA 8.33) from Bhoj Reddy Engineering College for Women with real-world experience as a **Gen AI Intern at IBM SkillsBuild** and a **Junior Software Developer Intern**. I build full-stack mobile and web apps with Flutter, Firebase, and Python — focused on shipping things that actually work for real users.
 
-- 🔭 Currently working on **[Mellomind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — an AI-powered service platform
-- 🌱 Deepening expertise in **Flutter/Dart, CI/CD, and cloud infrastructure**
-- 💡 Interested in: civic tech, skill-sharing economies, and mental wellness apps
-- 📫 Reach me at: **[thridandapani.vaishnavi26@gmail.com](mailto:thridandapani.vaishnavi26@gmail.com)**
+- 🏢 **Junior Software Developer Intern** @ YuvaIntern *(May 2026)*
+- 🤖 **Gen AI Intern** @ IBM SkillsBuild *(Feb–Mar 2024)* — built NLP & prompt engineering projects
+- 🔭 Currently building **[MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — a sensory platform for child engagement
+- 🌱 Deepening skills in **AI integration, Firebase, and cross-platform mobile development**
+- 🏆 Merit Scholarship recipient | **2nd Prize — Data Analytics Hackathon (R Programming)**
 - 🌍 Based in **Hyderabad, India**
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| Junior Software Developer Intern | YuvaIntern | May 2026 | 3+ SDLC docs, Agile workflow, code review & risk analysis |
+| Gen AI Intern | IBM SkillsBuild | Feb–Mar 2024 | Python NLP, prompt engineering, 3+ AI assignments |
 
 ---
 
@@ -30,36 +39,42 @@ I'm a software developer passionate about building real products — from **full
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ [DigitalDemocracy](https://github.com/Vaishnavi-Thridandapani/DigitalDemocracy)
-An online voting platform with secure, database-backed vote storage. Built to explore civic tech and election integrity.
+### 🤖 [ServeX AI](https://github.com/Vaishnavi-Thridandapani/ServexAi)
+Full-stack **skill exchange platform** with AI-powered recommendation engine.
 
-`CSS` `HTML` `JavaScript` `Database`
+📈 **+40%** match accuracy · **+35%** user interaction · **-30%** response time
+
+Built with Google Maps API, secure auth, multilingual support.
+
+`Flutter` `Firebase` `AI` `Dart`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [BridgyApp](https://github.com/Vaishnavi-Thridandapani/BridgyApp)
-Skill exchange platform powered by a **time-based virtual currency (time coins)**. Users earn credits by offering services and spend them when they need help.
+### 🤝 [Bridgy App](https://github.com/Vaishnavi-Thridandapani/BridgyApp)
+Real-time service exchange app supporting **100+ live user interactions**.
 
-`Flutter` `C++` `Mobile`
+💰 Virtual coin system · 🔔 Notifications · 👤 Auth · ⭐ Reviews · 📊 Admin dashboard
+
+`Flutter` `Firebase` `C++` `Mobile`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [ServexAi](https://github.com/Vaishnavi-Thridandapani/ServexAi)
-AI-powered service platform built with Dart/Flutter.
+### 🧠 [MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)
+Sensory platform with **10+ activity modules** for child engagement. Responsive animations, fullscreen accessibility, multi-device optimized.
 
-`Dart` `Flutter` `AI Integration`
+`Python` `UI/UX` `Accessibility`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)
- A mental wellness application built with Python.
+### 🗳️ [DigitalDemocracy](https://github.com/Vaishnavi-Thridandapani/DigitalDemocracy)
+Online voting platform with secure, database-backed vote storage. Built to explore civic tech and election integrity.
 
-`Python` `Mental Health` `App`
+`HTML` `CSS` `JavaScript` `Database`
 
 </td>
 </tr>
@@ -69,29 +84,39 @@ AI-powered service platform built with Dart/Flutter.
 
 ## 🛠️ Tech Stack
 
-<!-- SKILLS BADGES -->
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Tools**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Domains**
+**AI & Cloud**
 
-![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&logo=azuredevops&logoColor=white)
-![Mobile Development](https://img.shields.io/badge/Mobile_Dev-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack-6C63FF?style=flat-square&logo=stackshare&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_DevOps-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+![Cisco](https://img.shields.io/badge/Python_Essentials_1_%26_2-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Simplilearn](https://img.shields.io/badge/Intro_to_AI-Simplilearn-FF6B35?style=flat-square)
+![AWS](https://img.shields.io/badge/DevOps_on_AWS-Simplilearn-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![NPTEL](https://img.shields.io/badge/Joy_of_Computing_(Python)-NPTEL-003087?style=flat-square)
 
 ---
 
@@ -136,6 +161,8 @@ AI-powered service platform built with Dart/Flutter.
 
 *"Code is not just syntax — it's a solution to someone's problem."*
 
-⭐ **If you find my work useful, consider starring a repo!**
+📄 **CGPA 8.33 · IBM Gen AI Intern · Merit Scholar · Hackathon 2nd Prize**
+
+⭐ If you find my work useful, consider starring a repo!
 
 </div>
