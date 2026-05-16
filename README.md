@@ -1,168 +1,126 @@
+<!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi+Thridandapani;Flutter+%7C+Firebase+%7C+Full-Stack+Developer;IBM+Gen+AI+Intern+%E2%86%92+Building+Real+Products;CS+Graduate+%7C+CGPA+8.33+%7C+Hyderabad)](https://git.io/typing-svg)
+# Vaishnavi Thridandapani
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-Thridandapani&color=6C63FF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi_Thridandapani-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
-[![Email](https://img.shields.io/badge/Gmail-thridandapani.vaishnavi26@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
+**Full-Stack Mobile & Web Developer · AI Integration Specialist**
+
+*Building cross-platform applications that bridge mobile experiences with intelligent backends.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi__Thridandapani-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
+[![Email](https://img.shields.io/badge/Email-thridandapani.vaishnavi26%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi--Thridandapani-181717?style=flat-square&logo=github)](https://github.com/Vaishnavi-Thridandapani)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-CS graduate (CGPA 8.33) from Bhoj Reddy Engineering College for Women with real-world experience as a **Gen AI Intern at IBM SkillsBuild** and a **Junior Software Developer Intern**. I build full-stack mobile and web apps with Flutter, Firebase, and Python — focused on shipping things that actually work for real users.
+I'm a Computer Science graduate from Hyderabad, India, focused on shipping production-quality mobile and web applications. My core stack is **Flutter + Firebase + Python**, and I've built apps that handle real user traffic — from real-time service exchanges to AI-powered matchmaking platforms.
 
-- 🏢 **Junior Software Developer Intern** @ YuvaIntern *(May 2026)*
-- 🤖 **Gen AI Intern** @ IBM SkillsBuild *(Feb–Mar 2024)* — built NLP & prompt engineering projects
-- 🔭 Currently building **[MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — a sensory platform for child engagement
-- 🌱 Deepening skills in **AI integration, Firebase, and cross-platform mobile development**
-- 🏆 Merit Scholarship recipient | **2nd Prize — Data Analytics Hackathon (R Programming)**
-- 🌍 Based in **Hyderabad, India**
+I bring together front-end product thinking, back-end reliability, and an applied understanding of AI integration. I'm looking for roles where I can build things that genuinely matter to users.
 
----
-
-## 💼 Experience
-
-| Role | Company | Period | Highlights |
-|------|---------|--------|------------|
-| Junior Software Developer Intern | YuvaIntern | May 2026 | 3+ SDLC docs, Agile workflow, code review & risk analysis |
-| Gen AI Intern | IBM SkillsBuild | Feb–Mar 2024 | Python NLP, prompt engineering, 3+ AI assignments |
+- 🏢 **Junior Software Developer Intern** @ YuvaIntern *(May 2026 · current)*
+- 🤖 **Gen AI Intern** @ IBM SkillsBuild *(Feb–Mar 2024)* — NLP & prompt engineering
+- 🔭 Currently building **[MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — sensory platform for child engagement
+- 🌱 Deepening expertise in AI integration, Firebase architecture, and cross-platform development
+- 🏆 2nd Prize — Data Analytics Hackathon (R Programming) · Merit Scholarship Recipient
+- 📍 Hyderabad, India · CGPA 8.33
 
 ---
 
-## 🚀 Featured Projects
+## What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Area | Description |
+|------|-------------|
+| 📱 **Cross-Platform Mobile** | Production Flutter apps with Firebase backends, real-time features, and live user bases |
+| 🤖 **AI Integration** | NLP pipelines, prompt engineering, AI-powered recommendation engines embedded in product flows |
+| 🌐 **Full-Stack Web** | End-to-end web platforms with secure auth, admin dashboards, and accessible UI/UX |
 
-### 🤖 [ServeX AI](https://github.com/Vaishnavi-Thridandapani/ServexAi)
-Full-stack **skill exchange platform** with AI-powered recommendation engine.
+---
 
-📈 **+40%** match accuracy · **+35%** user interaction · **-30%** response time
+## Featured Projects
 
-Built with Google Maps API, secure auth, multilingual support.
+### 🤖 [ServeX AI](https://github.com/Vaishnavi-Thridandapani/ServexAi) · *AI-Powered Skill Exchange Platform*
 
-`Flutter` `Firebase` `AI` `Dart`
+Full-stack mobile platform where users exchange skills, powered by a custom recommendation engine.
 
-</td>
-<td width="50%" valign="top">
+- **+40% improvement in match accuracy** via AI-driven pairing logic
+- **+35% increase in user interaction** following AI recommendations integration
+- Built with Google Maps API integration, secure multi-provider auth, and multilingual support
 
-### 🤝 [Bridgy App](https://github.com/Vaishnavi-Thridandapani/BridgyApp)
-Real-time service exchange app supporting **100+ live user interactions**.
+`Flutter` `Firebase` `Dart` `AI/ML` `Google Maps API`
 
-💰 Virtual coin system · 🔔 Notifications · 👤 Auth · ⭐ Reviews · 📊 Admin dashboard
+---
 
-`Flutter` `Firebase` `C++` `Mobile`
+### 🤝 [Bridgy App](https://github.com/Vaishnavi-Thridandapani/BridgyApp) · *Real-Time Peer Service Exchange*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Mobile application supporting real-time peer-to-peer service exchange with an active user base.
 
-### 🧠 [MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)
-Sensory platform with **10+ activity modules** for child engagement. Responsive animations, fullscreen accessibility, multi-device optimized.
+- **100+ live user interactions** handled in real-time
+- Virtual coin economy · push notifications · star-based review system · full admin dashboard
+
+`Flutter` `Firebase` `C++` `Dart`
+
+---
+
+### 🧠 [MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind) · *Accessibility-First Sensory Platform*
+
+Sensory engagement platform for children featuring 10+ interactive activity modules.
+
+- Accessibility-first design: fullscreen mode, responsive animations, multi-device optimized
+- Intentional UX for neurodiverse users and caregivers
 
 `Python` `UI/UX` `Accessibility`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🗳️ [DigitalDemocracy](https://github.com/Vaishnavi-Thridandapani/DigitalDemocracy)
-Online voting platform with secure, database-backed vote storage. Built to explore civic tech and election integrity.
+### 🗳️ [DigitalDemocracy](https://github.com/Vaishnavi-Thridandapani/DigitalDemocracy) · *Civic Tech Voting Platform*
 
-`HTML` `CSS` `JavaScript` `Database`
+Secure online voting platform with database-backed vote integrity. Explores election system design and civic tech infrastructure.
 
-</td>
-</tr>
-</table>
+`HTML` `CSS` `JavaScript` `SQL`
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-**Languages**
+**Junior Software Developer Intern** · YuvaIntern
+*May 2026 · Current*
+Contributing to SDLC documentation, Agile workflow execution, code review, and risk analysis across active sprints.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**AI & Cloud**
-
-![IBM](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_DevOps-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square&logo=openai&logoColor=white)
+**Generative AI Intern** · IBM SkillsBuild
+*Feb 2024 – Mar 2024*
+Completed 3+ NLP and prompt engineering assignments using Python under IBM's structured AI curriculum.
 
 ---
 
-## 📜 Certifications
+## Technical Skills
 
-![Cisco](https://img.shields.io/badge/Python_Essentials_1_%26_2-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Simplilearn](https://img.shields.io/badge/Intro_to_AI-Simplilearn-FF6B35?style=flat-square)
-![AWS](https://img.shields.io/badge/DevOps_on_AWS-Simplilearn-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![NPTEL](https://img.shields.io/badge/Joy_of_Computing_(Python)-NPTEL-003087?style=flat-square)
+**Languages:** Python · Dart · JavaScript · SQL · C · HTML · CSS
 
----
+**Frameworks & Platforms:** Flutter · Firebase · Jenkins · Linux · Tableau · AWS DevOps
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Thridandapani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Thridandapani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vaishnavi-Thridandapani&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+**AI & Data:** NLP · Prompt Engineering · IBM SkillsBuild AI Tools · R Programming
 
 ---
 
-## 🏆 GitHub Trophies
+## Honors & Certifications
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Thridandapani&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Vaishnavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Thridandapani&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+- 🥈 **2nd Prize** — Data Analytics Hackathon (R Programming)
+- 🏅 **Merit Scholarship Recipient** — Bhoj Reddy Engineering College for Women
+- 📜 **Python Essentials 1 & 2** — Cisco Networking Academy
+- 📜 **Joy of Computing (Python)** — NPTEL
+- 📜 **Introduction to AI · DevOps on AWS** — Simplilearn
 
 ---
 
 <div align="center">
 
-*"Code is not just syntax — it's a solution to someone's problem."*
+*B.E. Computer Science · Bhoj Reddy Engineering College for Women · CGPA 8.33*
 
-📄 **CGPA 8.33 · IBM Gen AI Intern · Merit Scholar · Hackathon 2nd Prize**
-
-⭐ If you find my work useful, consider starring a repo!
+**[LinkedIn](https://www.linkedin.com/in/vaishnavi-thridandapani/) · [Email](mailto:thridandapani.vaishnavi26@gmail.com) · Hyderabad, India**
 
 </div>
