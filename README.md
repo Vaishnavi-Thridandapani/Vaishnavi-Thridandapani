@@ -2,7 +2,7 @@
 
 # Vaishnavi Thridandapani
 
-**Software Developer · Hyderabad, India**
+**Software Engineer**
 
 *Building products that solve real problems — web, AI, and everything in between.*
 
@@ -91,9 +91,9 @@ Completed 3+ NLP and prompt engineering projects using Python under IBM's struct
 
 **Languages:** Python · JavaScript · SQL · Dart · C · HTML · CSS
 
-**Tools & Platforms:** Firebase · Git · Jenkins · Linux · Tableau · AWS DevOps
+**Tools & Platforms:** Git · GitHub · Jenkins · Linux · Tableau · AWS · DevOps · Firebase
 
-**AI & Data:** NLP · Prompt Engineering · R Programming · IBM AI Tools
+**Coursework:** Data Structures · AI Fundamentals · Operating Systems · OOPs
 
 ---
 
