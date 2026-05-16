@@ -1,16 +1,15 @@
-<!-- HEADER -->
 <div align="center">
 
 # Vaishnavi Thridandapani
 
-**Full-Stack Mobile & Web Developer · AI Integration Specialist**
+**Software Developer · Hyderabad, India**
 
-*Building cross-platform applications that bridge mobile experiences with intelligent backends.*
+*Building products that solve real problems — web, AI, and everything in between.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi__Thridandapani-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
-[![Email](https://img.shields.io/badge/Email-thridandapani.vaishnavi26%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi--Thridandapani-181717?style=flat-square&logo=github)](https://github.com/Vaishnavi-Thridandapani)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B6914?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-6B4C3B?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-3D2B1F?style=flat-square&logo=github&logoColor=white)](https://github.com/Vaishnavi-Thridandapani)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-5A6E52?style=flat-square)
 
 </div>
 
@@ -18,68 +17,59 @@
 
 ## About
 
-I'm a Computer Science graduate from Hyderabad, India, focused on shipping production-quality mobile and web applications. My core stack is **Flutter + Firebase + Python**, and I've built apps that handle real user traffic — from real-time service exchanges to AI-powered matchmaking platforms.
+CS graduate with hands-on experience shipping full-stack applications and integrating AI into real product workflows. I care about clean code, thoughtful design, and outcomes that are measurable.
 
-I bring together front-end product thinking, back-end reliability, and an applied understanding of AI integration. I'm looking for roles where I can build things that genuinely matter to users.
-
-- 🏢 **Junior Software Developer Intern** @ YuvaIntern *(May 2026 · current)*
-- 🤖 **Gen AI Intern** @ IBM SkillsBuild *(Feb–Mar 2024)* — NLP & prompt engineering
-- 🔭 Currently building **[MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — sensory platform for child engagement
-- 🌱 Deepening expertise in AI integration, Firebase architecture, and cross-platform development
+- 🏢 **Junior Software Developer Intern** @ YuvaIntern *(May 2026 · Current)*
+- 🤖 **Generative AI Intern** @ IBM SkillsBuild *(Feb–Mar 2024)* — NLP & prompt engineering
+- 🔭 Currently building **[MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — accessibility-first platform for child engagement
+- 🌱 Deepening skills in AI integration, backend systems, and full-stack web development
 - 🏆 2nd Prize — Data Analytics Hackathon (R Programming) · Merit Scholarship Recipient
-- 📍 Hyderabad, India · CGPA 8.33
+- 📍 Hyderabad, India · B.E. Computer Science · CGPA 8.33
 
 ---
 
-## What I Build
+## What I Do
 
-| Area | Description |
-|------|-------------|
-| 📱 **Cross-Platform Mobile** | Production Flutter apps with Firebase backends, real-time features, and live user bases |
-| 🤖 **AI Integration** | NLP pipelines, prompt engineering, AI-powered recommendation engines embedded in product flows |
-| 🌐 **Full-Stack Web** | End-to-end web platforms with secure auth, admin dashboards, and accessible UI/UX |
+**Software Development** — End-to-end product development, auth systems, databases, dashboards, and real-time features built to production standard.
 
----
+**AI Integration** — Embedding NLP pipelines and AI-powered recommendation engines into real application flows with measurable impact.
 
-## Featured Projects
-
-### 🤖 [ServeX AI](https://github.com/Vaishnavi-Thridandapani/ServexAi) · *AI-Powered Skill Exchange Platform*
-
-Full-stack mobile platform where users exchange skills, powered by a custom recommendation engine.
-
-- **+40% improvement in match accuracy** via AI-driven pairing logic
-- **+35% increase in user interaction** following AI recommendations integration
-- Built with Google Maps API integration, secure multi-provider auth, and multilingual support
-
-`Flutter` `Firebase` `Dart` `AI/ML` `Google Maps API`
+**Accessible UI/UX** — Designing for real users, including accessibility-first work for neurodiverse audiences.
 
 ---
 
-### 🤝 [Bridgy App](https://github.com/Vaishnavi-Thridandapani/BridgyApp) · *Real-Time Peer Service Exchange*
+## Projects
 
-Mobile application supporting real-time peer-to-peer service exchange with an active user base.
+### 🤖 [ServeX AI](https://github.com/Vaishnavi-Thridandapani/ServexAi) — AI-Powered Skill Exchange Platform
 
-- **100+ live user interactions** handled in real-time
-- Virtual coin economy · push notifications · star-based review system · full admin dashboard
+Skill exchange platform with a custom AI recommendation engine, Google Maps integration, secure multi-provider auth, and multilingual support.
 
-`Flutter` `Firebase` `C++` `Dart`
+- +40% improvement in match accuracy via AI-driven pairing
+- +35% increase in user engagement following AI integration
+
+`Python` `Firebase` `AI/ML` `Google Maps API` `Dart`
 
 ---
 
-### 🧠 [MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind) · *Accessibility-First Sensory Platform*
+### 🤝 [Bridgy App](https://github.com/Vaishnavi-Thridandapani/BridgyApp) — Real-Time Peer Service Exchange
 
-Sensory engagement platform for children featuring 10+ interactive activity modules.
+Mobile application with 100+ live user interactions. Built a virtual coin economy, push notifications, star-based review system, and a full admin dashboard.
 
-- Accessibility-first design: fullscreen mode, responsive animations, multi-device optimized
-- Intentional UX for neurodiverse users and caregivers
+`Firebase` `C++` `Real-time Database` `Dart`
+
+---
+
+### 🧠 [MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind) — Accessibility-First Sensory Platform
+
+10+ interactive activity modules for child engagement. Accessibility-first design: fullscreen mode, responsive animations, multi-device compatible.
 
 `Python` `UI/UX` `Accessibility`
 
 ---
 
-### 🗳️ [DigitalDemocracy](https://github.com/Vaishnavi-Thridandapani/DigitalDemocracy) · *Civic Tech Voting Platform*
+### 🗳️ [DigitalDemocracy](https://github.com/Vaishnavi-Thridandapani/DigitalDemocracy) — Civic Tech Voting Platform
 
-Secure online voting platform with database-backed vote integrity. Explores election system design and civic tech infrastructure.
+Secure online voting with database-backed vote integrity. Explores civic infrastructure and election system design.
 
 `HTML` `CSS` `JavaScript` `SQL`
 
@@ -87,23 +77,23 @@ Secure online voting platform with database-backed vote integrity. Explores elec
 
 ## Experience
 
-**Junior Software Developer Intern** · YuvaIntern
+**Junior Software Developer Intern · YuvaIntern**
 *May 2026 · Current*
-Contributing to SDLC documentation, Agile workflow execution, code review, and risk analysis across active sprints.
+SDLC documentation, Agile workflows, code review, and risk analysis across active development cycles.
 
-**Generative AI Intern** · IBM SkillsBuild
+**Generative AI Intern · IBM SkillsBuild**
 *Feb 2024 – Mar 2024*
-Completed 3+ NLP and prompt engineering assignments using Python under IBM's structured AI curriculum.
+Completed 3+ NLP and prompt engineering projects using Python under IBM's structured AI curriculum.
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python · Dart · JavaScript · SQL · C · HTML · CSS
+**Languages:** Python · JavaScript · SQL · Dart · C · HTML · CSS
 
-**Frameworks & Platforms:** Flutter · Firebase · Jenkins · Linux · Tableau · AWS DevOps
+**Tools & Platforms:** Firebase · Git · Jenkins · Linux · Tableau · AWS DevOps
 
-**AI & Data:** NLP · Prompt Engineering · IBM SkillsBuild AI Tools · R Programming
+**AI & Data:** NLP · Prompt Engineering · R Programming · IBM AI Tools
 
 ---
 
@@ -111,16 +101,16 @@ Completed 3+ NLP and prompt engineering assignments using Python under IBM's str
 
 - 🥈 **2nd Prize** — Data Analytics Hackathon (R Programming)
 - 🏅 **Merit Scholarship Recipient** — Bhoj Reddy Engineering College for Women
-- 📜 **Python Essentials 1 & 2** — Cisco Networking Academy
-- 📜 **Joy of Computing (Python)** — NPTEL
-- 📜 **Introduction to AI · DevOps on AWS** — Simplilearn
+- 📜 Python Essentials 1 & 2 — Cisco Networking Academy
+- 📜 Joy of Computing (Python) — NPTEL
+- 📜 Introduction to AI · DevOps on AWS — Simplilearn
 
 ---
 
 <div align="center">
 
-*B.E. Computer Science · Bhoj Reddy Engineering College for Women · CGPA 8.33*
-
 **[LinkedIn](https://www.linkedin.com/in/vaishnavi-thridandapani/) · [Email](mailto:thridandapani.vaishnavi26@gmail.com) · Hyderabad, India**
+
+*Open to full-time and internship roles*
 
 </div>
