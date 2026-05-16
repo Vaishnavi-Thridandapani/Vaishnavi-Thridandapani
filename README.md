@@ -24,7 +24,7 @@ CS graduate with hands-on experience shipping full-stack applications and integr
 - 🔭 Currently building **[MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — accessibility-first platform for child engagement
 - 🌱 Deepening skills in AI integration, backend systems, and full-stack web development
 - 🏆 2nd Prize — Data Analytics Hackathon (R Programming) · Merit Scholarship Recipient
-- 📍 Hyderabad, India · B.E. Computer Science · CGPA 8.33
+- 📍 Hyderabad, India · BTech. Computer Science · CGPA 8.33
 
 ---
 
