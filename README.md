@@ -1,263 +1,238 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Vaishnavi Thridandapani — Portfolio</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"/>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=JetBrains+Mono:wght@400;700&family=Manrope:wght@300;400;600;700&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css"/>
-<style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  html { scroll-behavior: smooth; }
-  body { font-family: 'Manrope', sans-serif; background: #020b18; color: #e8f4ff; min-height: 100vh; }
+<div align="center">
 
-  .orb1 { position: fixed; width: 400px; height: 400px; border-radius: 50%; background: #0ea5e9; opacity: 0.08; top: -100px; right: -80px; pointer-events: none; z-index: 0; }
-  .orb2 { position: fixed; width: 300px; height: 300px; border-radius: 50%; background: #06b6d4; opacity: 0.07; top: 40%; left: -100px; pointer-events: none; z-index: 0; }
-  .orb3 { position: fixed; width: 250px; height: 250px; border-radius: 50%; background: #38bdf8; opacity: 0.06; bottom: 80px; right: 80px; pointer-events: none; z-index: 0; }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,50:1d9e75,100:5dcaa5&height=200&section=header&text=Vaishnavi%20Thridandapani&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17"/>
 
-  .wrapper { max-width: 900px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; position: relative; z-index: 1; }
+<br/>
 
-  /* HERO */
-  .hero { padding: 2.5rem 2rem 2rem; background: rgba(14,165,233,0.06); border: 1px solid rgba(56,189,248,0.15); border-radius: 20px; margin-bottom: 1.5rem; position: relative; overflow: hidden; }
-  .hero-badge-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1.2rem; }
-  .hbadge { font-family: 'JetBrains Mono', monospace; font-size: 10px; padding: 4px 12px; border-radius: 100px; letter-spacing: 0.08em; font-weight: 700; }
-  .hb1 { background: rgba(6,182,212,0.15); color: #67e8f9; border: 1px solid rgba(6,182,212,0.3); }
-  .hb2 { background: rgba(14,165,233,0.12); color: #7dd3fc; border: 1px solid rgba(14,165,233,0.25); }
-  .hb3 { background: rgba(56,189,248,0.1); color: #93c5fd; border: 1px solid rgba(56,189,248,0.2); }
-  .hero-row { display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
-  .hname { font-family: 'Syne', sans-serif; font-size: 52px; font-weight: 800; line-height: 1; letter-spacing: -1.5px; margin-bottom: 8px; }
-  .hname span { color: #38bdf8; }
-  .hsub { font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #4a7fa5; margin-bottom: 1.5rem; }
-  .hlinks { display: flex; gap: 8px; flex-wrap: wrap; }
-  .hlink { font-family: 'JetBrains Mono', monospace; font-size: 11px; padding: 8px 16px; border-radius: 8px; background: rgba(14,165,233,0.08); border: 1px solid rgba(56,189,248,0.18); color: #7dd3fc; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; transition: all 0.2s; }
-  .hlink:hover { background: rgba(14,165,233,0.18); border-color: rgba(56,189,248,0.4); }
-  .cgpa-box { text-align: right; }
-  .cgpa-num { font-family: 'Syne', sans-serif; font-size: 48px; font-weight: 800; color: #38bdf8; line-height: 1; }
-  .cgpa-lbl { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #4a7fa5; }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=B.Tech+CS+%7C+CGPA+8.43+%7C+Bhoj+Reddy+Engineering+College;Flutter+%2B+Firebase+%2B+Node.js+%2B+Python;4+Production+Projects+%7C+2+Internships;Open+to+Full-Time+Roles+%F0%9F%9F%A2" alt="Typing SVG"/>
 
-  /* STATS */
-  .stats4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 1.5rem; }
-  .sc { background: rgba(14,165,233,0.07); border: 1px solid rgba(56,189,248,0.13); border-radius: 12px; padding: 1rem; text-align: center; }
-  .sc-n { font-family: 'Syne', sans-serif; font-size: 26px; font-weight: 800; color: #38bdf8; line-height: 1; margin-bottom: 4px; }
-  .sc-l { font-size: 11px; color: #4a7fa5; }
+<br/><br/>
 
-  /* SECTION LABEL */
-  .sl { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #0ea5e9; letter-spacing: 0.15em; text-transform: uppercase; margin: 2.2rem 0 1rem; display: flex; align-items: center; gap: 8px; }
-  .sl::after { content: ''; flex: 1; height: 1px; background: rgba(56,189,248,0.12); }
-
-  /* ABOUT */
-  .about-p { font-size: 15px; line-height: 1.9; color: #7aa8c7; font-weight: 300; }
-  .about-p b { color: #e8f4ff; font-weight: 700; }
-
-  /* PROJECTS */
-  .pgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
-  .pc { background: rgba(14,165,233,0.06); border: 1px solid rgba(56,189,248,0.14); border-radius: 14px; padding: 1.25rem; cursor: pointer; transition: all 0.2s; text-decoration: none; display: block; color: inherit; }
-  .pc:hover { background: rgba(14,165,233,0.12); border-color: rgba(56,189,248,0.35); }
-  .pc-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
-  .pc-ico { width: 38px; height: 38px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 18px; background: rgba(6,182,212,0.15); border: 1px solid rgba(6,182,212,0.2); }
-  .pc-arr { font-size: 16px; color: rgba(56,189,248,0.3); transition: color 0.2s; }
-  .pc:hover .pc-arr { color: #38bdf8; }
-  .pc-name { font-family: 'Syne', sans-serif; font-size: 17px; font-weight: 700; margin-bottom: 5px; color: #e8f4ff; }
-  .pc-desc { font-size: 12px; color: #4a7fa5; line-height: 1.6; margin-bottom: 12px; }
-  .pc-tags { display: flex; flex-wrap: wrap; gap: 6px; }
-  .pt { font-family: 'JetBrains Mono', monospace; font-size: 10px; padding: 3px 8px; border-radius: 4px; background: rgba(14,165,233,0.1); color: #67e8f9; border: 1px solid rgba(6,182,212,0.2); }
-
-  /* TIMELINE */
-  .tl { position: relative; padding-left: 18px; }
-  .tl::before { content: ''; position: absolute; left: 0; top: 8px; bottom: 8px; width: 1px; background: rgba(56,189,248,0.15); }
-  .tli { position: relative; padding-left: 24px; margin-bottom: 1.75rem; }
-  .tli:last-child { margin-bottom: 0; }
-  .tl-dot { position: absolute; left: -25px; top: 5px; width: 10px; height: 10px; border-radius: 50%; background: #0ea5e9; border: 2px solid #38bdf8; box-shadow: 0 0 10px rgba(56,189,248,0.5); }
-  .tl-date { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #0ea5e9; margin-bottom: 3px; }
-  .tl-role { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 700; margin-bottom: 2px; color: #e8f4ff; }
-  .tl-co { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #4a7fa5; margin-bottom: 8px; }
-  .tl-pts { padding-left: 1rem; }
-  .tl-pts li { font-size: 13px; color: #7aa8c7; line-height: 1.7; margin-bottom: 3px; }
-
-  /* SKILLS */
-  .sw { display: flex; flex-wrap: wrap; gap: 8px; }
-  .sk { font-family: 'JetBrains Mono', monospace; font-size: 11px; padding: 6px 13px; border-radius: 8px; background: rgba(14,165,233,0.07); border: 1px solid rgba(56,189,248,0.13); color: #7dd3fc; display: inline-flex; align-items: center; gap: 6px; transition: all 0.2s; }
-  .sk:hover { background: rgba(14,165,233,0.15); border-color: rgba(56,189,248,0.3); }
-  .sk i { font-size: 14px; }
-
-  /* ACHIEVEMENTS */
-  .ach-g { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 8px; }
-  .ach-c { background: rgba(14,165,233,0.06); border: 1px solid rgba(56,189,248,0.12); border-radius: 10px; padding: 0.875rem 1rem; display: flex; align-items: flex-start; gap: 10px; }
-  .ach-ic { font-size: 16px; flex-shrink: 0; color: #38bdf8; margin-top: 1px; }
-  .ach-tx { font-size: 12px; color: #7aa8c7; line-height: 1.5; }
-
-  /* EXPLORING */
-  .exp-wrap { display: flex; flex-wrap: wrap; gap: 8px; }
-  .ep { font-family: 'JetBrains Mono', monospace; font-size: 11px; padding: 6px 14px; border-radius: 100px; background: rgba(14,165,233,0.07); color: #7dd3fc; border: 1px solid rgba(56,189,248,0.15); }
-  .ep:nth-child(1) { border-color: rgba(56,189,248,0.35); color: #67e8f9; }
-  .ep:nth-child(2) { border-color: rgba(6,182,212,0.3); color: #5DCAA5; }
-  .ep:nth-child(3) { border-color: rgba(56,189,248,0.2); }
-  .ep:nth-child(4) { border-color: rgba(14,165,233,0.2); }
-
-  /* CTA */
-  .cta { margin-top: 2rem; background: rgba(14,165,233,0.08); border: 1px solid rgba(56,189,248,0.2); border-radius: 16px; padding: 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
-  .cta-t { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 700; color: #e8f4ff; }
-  .cta-t span { color: #38bdf8; }
-  .cta-bs { display: flex; gap: 8px; flex-wrap: wrap; }
-  .cb { font-family: 'JetBrains Mono', monospace; font-size: 11px; padding: 9px 18px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; border: 1px solid rgba(56,189,248,0.25); background: rgba(14,165,233,0.1); color: #7dd3fc; transition: all 0.2s; }
-  .cb.primary { background: #0ea5e9; color: #fff; border-color: #0ea5e9; }
-  .cb:hover { border-color: #38bdf8; background: rgba(14,165,233,0.2); }
-  .cb.primary:hover { background: #38bdf8; }
-
-  @media (max-width: 600px) {
-    .hname { font-size: 36px; }
-    .stats4 { grid-template-columns: repeat(2, 1fr); }
-    .cgpa-num { font-size: 36px; }
-    .cta { flex-direction: column; }
-  }
-</style>
-</head>
-<body>
-<div class="orb1"></div>
-<div class="orb2"></div>
-<div class="orb3"></div>
-
-<div class="wrapper">
-
-  <!-- HERO -->
-  <div class="hero">
-    <div class="hero-badge-row">
-      <span class="hbadge hb1">● OPEN TO WORK</span>
-      <span class="hbadge hb2">FULL-STACK</span>
-      <span class="hbadge hb3">AI DEVELOPER</span>
-    </div>
-    <div class="hero-row">
-      <div>
-        <h1 class="hname">Vaishnavi<br><span>Thridandapani</span></h1>
-        <p class="hsub">// software_engineer · hyderabad · b.tech_cs</p>
-        <div class="hlinks">
-          <a class="hlink" href="https://github.com/Vaishnavi-Thridandapani" target="_blank"><i class="ti ti-brand-github"></i> GitHub</a>
-          <a class="hlink" href="https://www.linkedin.com/in/vaishnavi-thridandapani/" target="_blank"><i class="ti ti-brand-linkedin"></i> LinkedIn</a>
-          <a class="hlink" href="mailto:thridandapani.vaishnavi26@gmail.com"><i class="ti ti-mail"></i> Email</a>
-        </div>
-      </div>
-      <div class="cgpa-box">
-        <div class="cgpa-num">8.43</div>
-        <div class="cgpa-lbl">CGPA</div>
-      </div>
-    </div>
-  </div>
-
-  <!-- STATS -->
-  <div class="stats4">
-    <div class="sc"><div class="sc-n">4</div><div class="sc-l">projects</div></div>
-    <div class="sc"><div class="sc-n">2</div><div class="sc-l">internships</div></div>
-    <div class="sc"><div class="sc-n">5+</div><div class="sc-l">certs</div></div>
-    <div class="sc"><div class="sc-n">🥈</div><div class="sc-l">hackathon</div></div>
-  </div>
-
-  <!-- ABOUT -->
-  <div class="sl">about</div>
-  <p class="about-p">CS graduate passionate about building <b>scalable full-stack apps</b>, <b>AI-powered workflows</b>, and modern products that solve real problems. I care about clean code, accessibility-first design, and systems that hold up at scale.</p>
-
-  <!-- PROJECTS -->
-  <div class="sl">projects</div>
-  <div class="pgrid">
-    <a class="pc" href="https://github.com/Vaishnavi-Thridandapani" target="_blank">
-      <div class="pc-top"><div class="pc-ico">🤝</div><i class="ti ti-arrow-up-right pc-arr"></i></div>
-      <p class="pc-name">Bridgy App</p>
-      <p class="pc-desc">Real-time service exchange with virtual coin economy, push notifications & admin dashboard.</p>
-      <div class="pc-tags"><span class="pt">Flutter</span><span class="pt">Firebase</span><span class="pt">Firestore</span></div>
-    </a>
-    <a class="pc" href="https://github.com/Vaishnavi-Thridandapani" target="_blank">
-      <div class="pc-top"><div class="pc-ico">🤖</div><i class="ti ti-arrow-up-right pc-arr"></i></div>
-      <p class="pc-name">ServeX AI</p>
-      <p class="pc-desc">AI skill exchange platform with recommendation engine, Maps integration & multilingual support.</p>
-      <div class="pc-tags"><span class="pt">Python</span><span class="pt">Node.js</span><span class="pt">Firebase</span></div>
-    </a>
-    <a class="pc" href="https://github.com/Vaishnavi-Thridandapani" target="_blank">
-      <div class="pc-top"><div class="pc-ico">🧠</div><i class="ti ti-arrow-up-right pc-arr"></i></div>
-      <p class="pc-name">MelloMind</p>
-      <p class="pc-desc">Accessibility-first sensory platform for child engagement with interactive modules & animations.</p>
-      <div class="pc-tags"><span class="pt">Python</span><span class="pt">Streamlit</span></div>
-    </a>
-    <a class="pc" href="https://github.com/Vaishnavi-Thridandapani" target="_blank">
-      <div class="pc-top"><div class="pc-ico">🗳️</div><i class="ti ti-arrow-up-right pc-arr"></i></div>
-      <p class="pc-name">DigitalDemocracy</p>
-      <p class="pc-desc">Secure civic-tech voting platform with database-backed elections and structured participation.</p>
-      <div class="pc-tags"><span class="pt">JavaScript</span><span class="pt">SQL</span></div>
-    </a>
-  </div>
-
-  <!-- EXPERIENCE -->
-  <div class="sl">experience</div>
-  <div class="tl">
-    <div class="tli">
-      <div class="tl-dot"></div>
-      <p class="tl-date">MAY 2026 – JUN 2026</p>
-      <p class="tl-role">Software Developer Intern</p>
-      <p class="tl-co">YUVAINTERN</p>
-      <ul class="tl-pts">
-        <li>End-to-end SDLC documentation and testing workflows</li>
-        <li>Agile sprints, QA testing, risk analysis, and code reviews</li>
-        <li>Cross-functional team collaboration on project delivery</li>
-      </ul>
-    </div>
-    <div class="tli">
-      <div class="tl-dot"></div>
-      <p class="tl-date">FEB 2024 – MAR 2024</p>
-      <p class="tl-role">Gen AI Intern</p>
-      <p class="tl-co">IBM SKILLSBUILD</p>
-      <ul class="tl-pts">
-        <li>NLP projects with Python and NLTK</li>
-        <li>Prompt engineering, AI text generation and summarization</li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- TECH STACK -->
-  <div class="sl">tech stack</div>
-  <div class="sw">
-    <span class="sk"><i class="ti ti-brand-python"></i> Python</span>
-    <span class="sk"><i class="ti ti-brand-javascript"></i> JavaScript</span>
-    <span class="sk"><i class="ti ti-brand-nodejs"></i> Node.js</span>
-    <span class="sk"><i class="ti ti-device-mobile"></i> Flutter</span>
-    <span class="sk"><i class="ti ti-flame"></i> Firebase</span>
-    <span class="sk"><i class="ti ti-database"></i> MongoDB</span>
-    <span class="sk"><i class="ti ti-database"></i> SQL</span>
-    <span class="sk"><i class="ti ti-brand-aws"></i> AWS</span>
-    <span class="sk"><i class="ti ti-api"></i> REST APIs</span>
-    <span class="sk"><i class="ti ti-brand-git"></i> Git</span>
-    <span class="sk"><i class="ti ti-brain"></i> NLP / AI</span>
-    <span class="sk"><i class="ti ti-accessible"></i> Accessibility</span>
-  </div>
-
-  <!-- EXPLORING -->
-  <div class="sl">currently exploring</div>
-  <div class="exp-wrap">
-    <span class="ep">Backend Architecture</span>
-    <span class="ep">AI Product Workflows</span>
-    <span class="ep">DevOps & CI/CD</span>
-    <span class="ep">Enterprise App Design</span>
-    <span class="ep">Scalable Full-Stack</span>
-  </div>
-
-  <!-- ACHIEVEMENTS -->
-  <div class="sl">recognition</div>
-  <div class="ach-g">
-    <div class="ach-c"><i class="ti ti-star ach-ic"></i><span class="ach-tx">Second Prize — Data Analytics Hackathon</span></div>
-    <div class="ach-c"><i class="ti ti-award ach-ic"></i><span class="ach-tx">Merit Scholarship Recipient</span></div>
-    <div class="ach-c"><i class="ti ti-certificate ach-ic"></i><span class="ach-tx">Python Essentials — Cisco Networking Academy</span></div>
-    <div class="ach-c"><i class="ti ti-certificate ach-ic"></i><span class="ach-tx">Joy of Computing Using Python — NPTEL</span></div>
-    <div class="ach-c"><i class="ti ti-certificate ach-ic"></i><span class="ach-tx">DevOps on AWS — Simplilearn</span></div>
-  </div>
-
-  <!-- CTA -->
-  <div class="cta">
-    <div class="cta-t">Let's build something <span>great.</span></div>
-    <div class="cta-bs">
-      <a class="cb primary" href="mailto:thridandapani.vaishnavi26@gmail.com"><i class="ti ti-send"></i> Hire me</a>
-      <a class="cb" href="https://www.linkedin.com/in/vaishnavi-thridandapani/" target="_blank"><i class="ti ti-brand-linkedin"></i> LinkedIn</a>
-      <a class="cb" href="https://github.com/Vaishnavi-Thridandapani" target="_blank"><i class="ti ti-brand-github"></i> GitHub</a>
-    </div>
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi-Thridandapani)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-Thridandapani&style=for-the-badge&color=1d9e75&label=PROFILE+VIEWS)](https://github.com/Vaishnavi-Thridandapani)
 
 </div>
-</body>
-</html>
+
+---
+
+## 🙋‍♀️ About Me
+
+```yaml
+Name      : Vaishnavi Thridandapani
+Degree    : B.Tech Computer Science — Bhoj Reddy Engineering College for Women
+CGPA      : 8.43 / 10
+Location  : Hyderabad, India
+Status    : 🟢 Open to Full-Time Roles
+Interests : Full-Stack · AI/ML · Mobile · Backend
+```
+
+Computer Science graduate with hands-on experience building full-stack applications, AI-powered tools, and cross-platform mobile apps. Through internships at **IBM SkillsBuild** and **YuvaIntern**, I've worked end-to-end across the SDLC — from architecture design and sprint planning to QA, NLP, and prompt engineering.
+
+I enjoy solving real problems with clean, maintainable code and am actively looking for my **first full-time role** in software engineering.
+
+---
+
+## 📊 At a Glance
+
+<div align="center">
+
+| 🎓 CGPA | 🚀 Projects | 💼 Internships | 📜 Certifications |
+|:---:|:---:|:---:|:---:|
+| **8.43 / 10** | **4 Shipped** | **2 Completed** | **5 Earned** |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Platforms**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Coursework**
+
+![DSA](https://img.shields.io/badge/Data%20Structures-%231d9e75.svg?style=flat-square&logoColor=white)
+![OS](https://img.shields.io/badge/Operating%20Systems-%231d9e75.svg?style=flat-square&logoColor=white)
+![OOP](https://img.shields.io/badge/OOPs-%231d9e75.svg?style=flat-square&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-%231d9e75.svg?style=flat-square&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Fundamentals-%231d9e75.svg?style=flat-square&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-%231d9e75.svg?style=flat-square&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🖥️ Software Developer Intern (Virtual) &nbsp;·&nbsp; YuvaIntern &nbsp;·&nbsp; May 2026 – Jun 2026</b></summary>
+
+<br/>
+
+- Produced **3 end-to-end SDLC documents** covering architecture design, testing strategies, and integration workflows — reduced project documentation time by **30%**
+- Collaborated across Agile sprint planning and module testing cycles, improving team coordination efficiency by **20%**
+- Conducted QA testing, risk analysis, and code reviews across **4 modules**, troubleshooting and resolving **8+ potential issues** before deployment
+- Collaborated with cross-functional teams including design and product to deliver project milestones on schedule
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🤖 Gen AI Intern &nbsp;·&nbsp; IBM SkillsBuild &nbsp;·&nbsp; Feb 2024 – Mar 2024 &nbsp;·&nbsp; Remote</b></summary>
+
+<br/>
+
+- Built a **text summarization tool** using Python and NLP libraries including NLTK, applying prompt engineering techniques to improve output accuracy across **2+ practical tasks**
+- Designed **3 Generative AI workflows** optimizing prompt structure, response accuracy, and output consistency across text generation use cases
+- Applied core ML concepts to **3+ AI assignments**, implementing NLP pipelines for text classification and generation tasks
+
+</details>
+
+---
+
+## 🚀 Projects
+
+### 🤖 ServeX AI — Skill Exchange & Service Platform
+
+> Full-stack AI-powered skill exchange platform with intelligent recommendations, multilingual support, and real-time maps integration.
+
+- Engineered using **Flutter, Firebase, Node.js, and REST APIs**, deploying an AI recommendation engine that improved service match accuracy by **40%**
+- Integrated **Firebase Authentication, Google Maps API**, and multilingual support across **3 languages**, improving user accessibility by **35%**
+- Applied performance tuning to recommendation algorithm and backend workflows, reducing API response time by **30%**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1d9e75?style=flat-square)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+---
+
+### 🤝 Bridgy App — Real-Time Service Exchange
+
+> Cross-platform mobile app with virtual economy, push notifications, and an admin dashboard — built for scale.
+
+- Architected a **real-time cross-platform app** using Flutter and Firebase, handling **100+ concurrent live user interactions**
+- Shipped virtual coin transactions, push notifications, authentication, and review features, increasing platform engagement by **30%**
+- Built and maintained an **admin dashboard** monitoring 100+ users and service requests, improving workflow efficiency by **25%**
+- Delivered responsive cross-platform mobile UI across **Android and iOS** with real-time Firebase synchronization
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+---
+
+### 🧠 MelloMind — Sensory Engagement Platform
+
+> Accessibility-first interactive platform for children aged 4–10, designed for sensory engagement and digital play.
+
+- Designed **10+ activity modules** targeting children aged 4–10, improving engagement through structured digital play
+- Crafted responsive animations and interactive UI components achieving **under 200ms interaction load time** across devices
+- Implemented fullscreen accessibility support and cross-device performance optimizations for consistent UX across all screen sizes
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 🗳️ DigitalDemocracy — Civic-Tech Voting System
+
+> Secure, database-backed online voting system with structured election workflows and participation management.
+
+- Built a secure civic-tech voting system with **database-backed elections** and structured participation workflows
+- Designed clean voter-facing UI with JavaScript and SQL-backed data integrity
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Thridandapani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=5dcaa5&text_color=9fe1cb"/>
+&nbsp;&nbsp;
+<img height="170" src="https://streak-stats.demolab.com?user=Vaishnavi-Thridandapani&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=5dcaa5&currStreakLabel=9fe1cb"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Thridandapani&theme=react-dark&hide_border=true&bg_color=0d1117&color=1d9e75&line=5dcaa5&point=9fe1cb"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+| # | Achievement |
+|---|---|
+| 🥈 | **Second Prize** — Data Analytics Hackathon (R Programming) |
+| 🎓 | **Merit Scholarship** — Academic Excellence Award |
+| 📜 | **Python Essentials 1 & 2** — Cisco Networking Academy |
+| 📜 | **Introduction to Artificial Intelligence** — Simplilearn |
+| 📜 | **Fundamentals of DevOps on AWS** — Simplilearn |
+| 📜 | **Joy of Computing Using Python** — NPTEL |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.Tech — Computer Science | Bhoj Reddy Engineering College for Women, Hyderabad | CGPA: **8.43** | 2022 – 2026 |
+| Intermediate (MPC) | SR Junior College | **89.7%** | 2020 – 2022 |
+
+---
+
+## 🌱 Currently Building On
+
+```
+📐 System Design & Backend Architecture
+🤖 Advanced AI / ML Integrations
+🐳 Docker, CI/CD & DevOps Fundamentals
+☁️  Cloud-Native Full-Stack Development
+```
+
+---
+
+## 📬 Open to Opportunities
+
+<div align="center">
+
+I'm actively seeking my **first full-time role** in Software Engineering, AI, or Full-Stack Development.
+Feel free to reach out — I'd love to connect!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi-Thridandapani)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5dcaa5,50:1d9e75,100:0f6e56&height=100&section=footer"/>
