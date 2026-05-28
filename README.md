@@ -4,7 +4,7 @@
 
 **Software Engineer**
 
-*Building products that solve real problems — web, AI, and everything in between.*
+*Building scalable applications and AI-powered products focused on usability, accessibility, and real-world impact.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B6914?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-6B4C3B?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
@@ -17,24 +17,41 @@
 
 ## About
 
-CS graduate with hands-on experience shipping full-stack applications and integrating AI into real product workflows. I care about clean code, thoughtful design, and outcomes that are measurable.
+CS graduate with hands-on experience building full-stack applications, AI-powered workflows, and accessible digital products. I enjoy turning ideas into practical software with clean code, thoughtful design, and real-world usability.
 
-- 🏢 **Junior Software Developer Intern** @ YuvaIntern *(May 2026 · Current)*
-- 🤖 **Generative AI Intern** @ IBM SkillsBuild *(Feb–Mar 2024)* — NLP & prompt engineering
+- 🏢 **Junior Software Developer Intern** @ YuvaIntern *(May 2026 – Present)*
+- 🤖 **Generative AI Intern** @ IBM SkillsBuild *(Feb 2024 – Mar 2024)* — NLP & prompt engineering
 - 🔭 Currently building **[MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind)** — accessibility-first platform for child engagement
-- 🌱 Deepening skills in AI integration, backend systems, and full-stack web development
+- 🌱 Deepening skills in AI integration, backend systems, REST APIs, and full-stack development
 - 🏆 2nd Prize — Data Analytics Hackathon (R Programming) · Merit Scholarship Recipient
-- 📍 Hyderabad, India · BTech. Computer Science · CGPA 8.43
+- 📍 Hyderabad, India · B.Tech Computer Science · CGPA 8.43
+
+---
+
+## Featured Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flutter,firebase,js,html,css,git,github,linux,aws" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Thridandapani&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Thridandapani&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## What I Do
 
-**Software Development** — End-to-end product development, auth systems, databases, dashboards, and real-time features built to production standard.
+**Full-Stack Development** — Building responsive applications with authentication, databases, dashboards, and real-time functionality.
 
-**AI Integration** — Embedding NLP pipelines and AI-powered recommendation engines into real application flows with measurable impact.
+**AI-Integrated Systems** — Developing applications that combine AI workflows, recommendation systems, NLP, and automation into practical user experiences.
 
-**Accessible UI/UX** — Designing for real users, including accessibility-first work for neurodiverse audiences.
+**Product-Focused Engineering** — Creating solutions with emphasis on usability, accessibility, scalability, and measurable user impact.
 
 ---
 
@@ -42,10 +59,12 @@ CS graduate with hands-on experience shipping full-stack applications and integr
 
 ### 🤖 [ServeX AI](https://github.com/Vaishnavi-Thridandapani/ServexAi) — AI-Powered Skill Exchange Platform
 
-Skill exchange platform with a custom AI recommendation engine, Google Maps integration, secure multi-provider auth, and multilingual support.
+AI-powered skill exchange platform designed to connect users with suitable service providers through intelligent recommendation workflows.
 
-- +40% improvement in match accuracy via AI-driven pairing
-- +35% increase in user engagement following AI integration
+- Implemented AI-driven service pairing and recommendation logic
+- Integrated Google Maps for location-based service discovery
+- Added multilingual support to improve accessibility for diverse users
+- Designed secure authentication and service request workflows
 
 `Python` `Firebase` `AI/ML` `Google Maps API` `Dart`
 
@@ -53,23 +72,38 @@ Skill exchange platform with a custom AI recommendation engine, Google Maps inte
 
 ### 🤝 [Bridgy App](https://github.com/Vaishnavi-Thridandapani/BridgyApp) — Real-Time Peer Service Exchange
 
-Mobile application with 100+ live user interactions. Built a virtual coin economy, push notifications, star-based review system, and a full admin dashboard.
+Mobile application for peer-to-peer service exchange using a virtual coin-based economy.
 
-`Firebase` `C++` `Real-time Database` `Dart`
+- Built user authentication and role-based service request flows
+- Implemented virtual coin transactions for service exchange
+- Added push notifications, star-based reviews, and transaction history
+- Developed an admin dashboard for monitoring users, services, and activity
+
+`Flutter` `Firebase` `Firestore` `Dart`
 
 ---
 
 ### 🧠 [MelloMind](https://github.com/Vaishnavi-Thridandapani/MelloMind) — Accessibility-First Sensory Platform
 
-10+ interactive activity modules for child engagement. Accessibility-first design: fullscreen mode, responsive animations, multi-device compatible.
+Interactive sensory platform focused on child engagement, accessibility, and responsive activity-based experiences.
 
-`Python` `UI/UX` `Accessibility`
+- Built 10+ interactive activity modules for child-friendly engagement
+- Designed fullscreen mode, responsive animations, and multi-device compatibility
+- Focused on accessibility-first design for neurodiverse audiences
+- Created a safe, playful, and simple user experience for young users
+
+`Python` `Streamlit` `Accessibility` `Interactive UI`
 
 ---
 
 ### 🗳️ [DigitalDemocracy](https://github.com/Vaishnavi-Thridandapani/DigitalDemocracy) — Civic Tech Voting Platform
 
-Secure online voting with database-backed vote integrity. Explores civic infrastructure and election system design.
+Secure online voting platform exploring digital election workflows and vote integrity.
+
+- Built database-backed voting functionality
+- Designed structured user flow for election participation
+- Implemented frontend screens using web technologies
+- Explored secure civic infrastructure and election system design
 
 `HTML` `CSS` `JavaScript` `SQL`
 
@@ -77,13 +111,21 @@ Secure online voting with database-backed vote integrity. Explores civic infrast
 
 ## Experience
 
-**Junior Software Developer Intern · YuvaIntern**
-*May 2026 · Current*
-SDLC documentation, Agile workflows, code review, and risk analysis across active development cycles.
+### Junior Software Developer Intern · YuvaIntern  
+*May 2026 – Present*
 
-**Generative AI Intern · IBM SkillsBuild**
+- Created SDLC documentation for software development workflows
+- Worked on Agile planning, module design, and system architecture
+- Supported testing, risk analysis, integration planning, and code review
+- Improved understanding of real-world software development lifecycle practices
+
+### Generative AI Intern · IBM SkillsBuild  
 *Feb 2024 – Mar 2024*
-Completed 3+ NLP and prompt engineering projects using Python under IBM's structured AI curriculum.
+
+- Completed hands-on NLP and prompt engineering tasks using Python
+- Built small AI mini-projects focused on text generation and prompt workflows
+- Learned practical applications of generative AI in real product scenarios
+- Strengthened understanding of AI model behavior, prompts, and automation
 
 ---
 
@@ -91,26 +133,42 @@ Completed 3+ NLP and prompt engineering projects using Python under IBM's struct
 
 **Languages:** Python · JavaScript · SQL · Dart · C · HTML · CSS
 
-**Tools & Platforms:** Git · GitHub · Jenkins · Linux · Tableau · AWS · DevOps · Firebase
+**Frameworks & Platforms:** Flutter · Firebase · Streamlit · Google Maps API
 
-**Coursework:** Data Structures · AI Fundamentals · Operating Systems · OOPs
+**Tools:** Git · GitHub · Jenkins · Linux · Tableau · AWS
+
+**Core Concepts:** Data Structures · OOPs · Operating Systems · AI Fundamentals · REST APIs · SDLC
+
+---
+
+## Currently Exploring
+
+- Backend architecture and REST API development
+- AI-integrated product workflows
+- DevOps fundamentals and CI/CD pipelines
+- Scalable full-stack application design
 
 ---
 
 ## Honors & Certifications
 
-- 🥈 **2nd Prize** — Data Analytics Hackathon (R Programming)
+- 🥈 **2nd Prize** — Data Analytics Hackathon using R Programming
 - 🏅 **Merit Scholarship Recipient** — Bhoj Reddy Engineering College for Women
 - 📜 Python Essentials 1 & 2 — Cisco Networking Academy
-- 📜 Joy of Computing (Python) — NPTEL
-- 📜 Introduction to AI · DevOps on AWS — Simplilearn
+- 📜 Joy of Computing Using Python — NPTEL
+- 📜 Introduction to Artificial Intelligence — Simplilearn
+- 📜 Fundamentals of DevOps on AWS — Simplilearn
 
 ---
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/vaishnavi-thridandapani/) · [Email](mailto:thridandapani.vaishnavi26@gmail.com) · Hyderabad, India**
+### Let’s Connect
 
-*Open to full-time and internship roles*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Thridandapani-8B6914?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-thridandapani/)
+[![Email](https://img.shields.io/badge/Email-thridandapani.vaishnavi26%40gmail.com-6B4C3B?style=flat-square&logo=gmail&logoColor=white)](mailto:thridandapani.vaishnavi26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi--Thridandapani-3D2B1F?style=flat-square&logo=github&logoColor=white)](https://github.com/Vaishnavi-Thridandapani)
+
+**Open to full-time software engineering roles, internships, and AI/full-stack development opportunities.**
 
 </div>
